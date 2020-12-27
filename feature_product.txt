@@ -1,0 +1,4 @@
+ten cac san pham:
+- cometics
+- food
+- clothes
